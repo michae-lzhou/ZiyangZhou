@@ -2,6 +2,8 @@
 ### About me
 Hi, I’m Michael! I love learning and getting better at any chance I get, and I live by that every single day. I’m currently a Sophomore studying Computer Science at Tufts University, and I look to improve my programming skills as well as my soft skills at any chance I get. I love programming and the tenuous process of troubleshooting and debugging, and I find that I often learn a lot and become a much better programmer through the process of trial and error.
 
+Check out some of my project!
+
 ### Programming Languages
 After a couple of years of solid programming, I'm proficient in:
 
