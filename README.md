@@ -9,7 +9,7 @@ After a couple of years of solid programming, I'm proficient in C, C++, C#, HTML
 Additional tools I'm great at working with include Vim and LaTeX, as well as OnShape, Laser Cutters, and 3D Printers.
 
 ### Connect with me
-Looking for internship and career opportunities! Reach me at ziyang.zhou@gmail.com or ziyang.zhou@tufts.edu
+Looking for internship and career opportunities! Reach me at ziyang.zhou.work@gmail.com or ziyang.zhou@tufts.edu
 
 <!---
 michae-lzhou/michae-lzhou is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
