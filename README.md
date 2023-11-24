@@ -4,22 +4,13 @@ Hi, I’m Michael! I love learning and getting better at any chance I get, and I
 
 ### Programming Languages
 After a couple of years of solid programming, I'm proficient in:
-- C
-- C++
-- C#
-- HTML
-- Javascript
-- Java
-- Python
-- OpenCV
+
+[![My Skills](https://skillicons.dev/icons?i=c,cs,cpp,html,js,java,py,)](https://skillicons.dev)
 
 ### Skills
 Additional tools I'm great at working with include:
-- Vim
-- LaTeX
-- OnShape
-- Laser Cutters
-- 3D Printers.
+
+[![My Skills](https://skillicons.dev/icons?i=vim,latex,bash,linux,arduino,blender)](https://skillicons.dev)
 
 ### Connect with me
 Looking for internship and career opportunities! Reach me at ziyang.zhou.work@gmail.com or ziyang.zhou@tufts.edu
